@@ -1,0 +1,12 @@
+{
+  name: "es6-to-es5-quickstart",
+  version: "0.0.1",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "rollup": "^0.34.10",
+    "rollup-plugin-buble": "^0.13.0"
+  },
+  "scripts": {
+    "rollup": "rollup -c"
+  }
+}
