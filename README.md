@@ -1,4 +1,4 @@
-# es6-to-es5-quickstart
+# es6-to-es5-quickstart-gulp
 Very simple quickstart using [Gulp](https://github.com/gulpjs/gulp), [Rollup](http://rollupjs.org/) and [Buble](buble.surge.sh) for ES6 to ES5 compilation with support for modules.
 
 ## Installation
