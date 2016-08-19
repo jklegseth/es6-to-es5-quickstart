@@ -1,6 +1,6 @@
 {
-  name: "es6-to-es5-quickstart",
-  version: "0.0.1",
+  "name": "es6-to-es5-quickstart",
+  "version": "0.0.1",
   "devDependencies": {
     "gulp": "^3.9.1",
     "rollup": "^0.34.10",
